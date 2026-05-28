@@ -1,5 +1,4 @@
 # course-project
-<!DOCTYPE html>
 <html>
 <head>
   <title>Roommate Task Manager</title>
