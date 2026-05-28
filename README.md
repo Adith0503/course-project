@@ -1,4 +1,4 @@
-# course-project
+
 <html>
 <head>
   <title>Roommate Task Manager</title>
